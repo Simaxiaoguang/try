@@ -1,0 +1,17 @@
+# > BBC iPlayer
+USER-AGENT,BBCiPlayer*
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-KEYWORD,bbcfmt
+DOMAIN-KEYWORD,uk-live
+
+# > All 4
+USER-AGENT,All4*
+DOMAIN-SUFFIX,c4assets.com
+DOMAIN-SUFFIX,channel4.com
+
+# > ITV
+USER-AGENT,ITV_Player*
+DOMAIN-SUFFIX,itv.com
+DOMAIN-SUFFIX,itvstatic.com
+DOMAIN,itvpnpmobile-a.akamaihd.net
